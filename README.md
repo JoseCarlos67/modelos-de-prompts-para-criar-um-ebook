@@ -1,21 +1,21 @@
 <p align="center">
-    <img width="100" src=".github/assets/capa.png">
+    <img width="200" src="assets/capa.png">
 </p>
 
 # Poejto EBOOK com elementos gerados por I.A.s
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instruído por um instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/JoseCarlos67/modelos-de-prompts-para-criar-um-ebook/blob/main/output/A%20Essencia%20da%20Orientacao%20a%20Objetos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Copilot](https://copilot.microsoft.com/)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
